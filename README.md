@@ -1,2 +1,2 @@
 # javascript-demo
-basic javascript repository
+Basic javascript repository
